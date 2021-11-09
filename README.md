@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artcomp
+- 👋 Hi, I’m @artcomp - Arthur Domingues
 - 👀 I’m interested in Java/Spring Boot, ReactNative, Kotlin and some cool Python Projects
 - 🌱 I’m currently learning Spring Boot (Java)
 - 💞️ I’m looking to collaborate on Java/Python projects
