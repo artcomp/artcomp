@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @artcomp - Arthur Domingues
-- 👀 I’m interested in Java/Spring Boot, ReactNative, Kotlin and some cool Python Projects
+- 👀 I’m interested in some cool Python and  Java Projects
 - 🌱 I’m currently learning Spring Boot (Java)
-- 💞️ I’m looking to collaborate on Java and Python projects
+- 💞️ I’m looking to collaborate on Python and Java projects
 - 📫 How to reach me - arthurfreitas772@gmail.com
 
 
